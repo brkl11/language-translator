@@ -15,7 +15,7 @@ A desktop language translation application built with **PyQt5** and **Google Tra
 
 ## Screenshot
 
-(Translator.jpg)
+![Screenshot](Translator.jpg)
 
 ---
 
